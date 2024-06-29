@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "550403450970",
+    "project_id": "test-osm-3c3af",
+    "storage_bucket": "test-osm-3c3af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550403450970:android:7ddba5d747d5fee2105063",
+        "android_client_info": {
+          "package_name": "com.flutter.osm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDShd2J-m-APS1dXZLrhFVAJ_QUyFvWqAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
